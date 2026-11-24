@@ -1,0 +1,5 @@
+variable,value
+Age (years),"M = 21.53, SD = 1.65"
+Gender,"Female (2) = 211 (84.4%), Male (1) = 39 (15.6%)"
+SES,"{2: np.int64(228), 1: np.int64(20), 3: np.int64(2)}"
+AgeGroup,"{1: np.int64(194), 2: np.int64(56)}"
