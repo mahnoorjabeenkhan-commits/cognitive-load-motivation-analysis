@@ -8,6 +8,10 @@ Do cognitive load and intrinsic motivation predict academic self-efficacy, and d
 
 ## What the data show
 
+![Scatter plot of study variables](figures/fig_scatter.png)
+
+![Cognitive load by motivation interaction](figures/fig_interaction.png)
+
 Scales were reliable (α = .82–.91).
 
 - Intrinsic motivation and academic self-efficacy were negatively related (r = –.14, p = .023).
