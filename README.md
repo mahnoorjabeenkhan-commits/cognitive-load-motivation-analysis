@@ -43,7 +43,7 @@ Item-level responses are not shared publicly because consent covered academic us
 
 ## Honest limitations
 
-- Cross-sectional self-report data — no causal claims are possible.
+- Cross-sectional self-report data, no causal claims are possible.
 - Sample is 84 % female and mostly middle socioeconomic status.
 - Perceived cognitive load is not the same as load measured in a laboratory task.
 - The original thesis narrative reported the opposite direction for some of the bivariate associations. The numbers in this repository are computed directly from the item responses and match the pre-computed scale means in the original SPSS file.
